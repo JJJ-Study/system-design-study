@@ -19,3 +19,4 @@
 |:-------------------:|:----------------------------------------------------------------------------:|
 | 1장 사용자 수에 따른 규모 확장성 | [discussion](https://github.com/JJJ-Study/system-design-study/discussions/1) |
 |   4장 처리율 제한 장치 설계   | [discussion](https://github.com/JJJ-Study/system-design-study/discussions/3) |
+| 5장 안정 해시 설계 | [discussion](https://github.com/JJJ-Study/system-design-study/discussions/4) |
