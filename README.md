@@ -15,10 +15,10 @@
 
 ### 진행 상황
 
-|             챕터             |                                  함께 생각한 내용                                   |
-|:--------------------------:|:----------------------------------------------------------------------------:|
-|    1장 사용자 수에 따른 규모 확장성     | [discussion](https://github.com/JJJ-Study/system-design-study/discussions/1) |
-|      4장 처리율 제한 장치 설계       | [discussion](https://github.com/JJJ-Study/system-design-study/discussions/3) |
-|        5장 안정 해시 설계         | [discussion](https://github.com/JJJ-Study/system-design-study/discussions/4) |
-|       6장 키-값 저장소 설계        | [discussion](https://github.com/JJJ-Study/system-design-study/discussions/5) |
-| 7장 분산 시스템을 위한 유일 ID 생성기 설계 |                                [discussion](https://github.com/JJJ-Study/system-design-study/discussions/6)                                |
+|             챕터             |                                                             함께 생각한 내용                                                              |
+|:--------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+|    1장 사용자 수에 따른 규모 확장성     |                            [discussion](https://github.com/JJJ-Study/system-design-study/discussions/1)                            |
+|      4장 처리율 제한 장치 설계       |                              [discussion](https://github.com/JJJ-Study/system-design-study/discussions/3)                          |
+|        5장 안정 해시 설계         |                            [discussion](https://github.com/JJJ-Study/system-design-study/discussions/4)                            |
+|       6장 키-값 저장소 설계        |                            [discussion](https://github.com/JJJ-Study/system-design-study/discussions/5)                            |
+| 7장 분산 시스템을 위한 유일 ID 생성기 설계 |                            [discussion](https://github.com/JJJ-Study/system-design-study/discussions/6)                            |
